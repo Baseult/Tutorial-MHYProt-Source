@@ -1,0 +1,21 @@
+# Mhyprot Driverbased Cheat with Nvidia Overlay
+External cheat base using Mhyprot to read and write Anticheat protected memory and nvidia hijack for overlay
+
+Credits to Bluefire for the Source.
+Original Source by Bluefire: https://github.com/LagradOst/BlueFirePaladinsHack
+
+This Source was modified and published by Baseult.
+
+https://github.com/leeza007/evil-mhyprot-cli
+
+https://github.com/iraizo/nvidia-overlay-hijack
+
+(Nvidia overlay is not required but recommended as it will just create a transparent window if not found)
+
+Includes:
++ Aimbot (lock and smooth)
++ BoxEPS, Name and HP
++ Tracers
++ NoRecoil + NoSpread
++ ThirdPerson
++ Glow

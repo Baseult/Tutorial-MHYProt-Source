@@ -1,0 +1,1091 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Das Zwischenverzeichnis (x64\Release\) enthält freigegebene Dateien aus einem anderen Projekt (PaladinsHack.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  Aimbot.cpp
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.h(1,1): warning C4005: "_CRT_SECURE_NO_WARNINGS": Makro-Neudefinition
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Aimbot.cpp : message : Siehe vorherige Definition von "_CRT_SECURE_NO_WARNINGS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(59,1): warning C4005: "D2DERR_WRONG_STATE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56930): message : Siehe vorherige Definition von "D2DERR_WRONG_STATE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(64,1): warning C4005: "D2DERR_NOT_INITIALIZED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56939): message : Siehe vorherige Definition von "D2DERR_NOT_INITIALIZED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(69,1): warning C4005: "D2DERR_UNSUPPORTED_OPERATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56948): message : Siehe vorherige Definition von "D2DERR_UNSUPPORTED_OPERATION"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(74,1): warning C4005: "D2DERR_SCANNER_FAILED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56957): message : Siehe vorherige Definition von "D2DERR_SCANNER_FAILED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(79,1): warning C4005: "D2DERR_SCREEN_ACCESS_DENIED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56966): message : Siehe vorherige Definition von "D2DERR_SCREEN_ACCESS_DENIED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(84,1): warning C4005: "D2DERR_DISPLAY_STATE_INVALID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56975): message : Siehe vorherige Definition von "D2DERR_DISPLAY_STATE_INVALID"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(89,1): warning C4005: "D2DERR_ZERO_VECTOR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56984): message : Siehe vorherige Definition von "D2DERR_ZERO_VECTOR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(97,1): warning C4005: "D2DERR_INTERNAL_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56993): message : Siehe vorherige Definition von "D2DERR_INTERNAL_ERROR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(103,1): warning C4005: "D2DERR_DISPLAY_FORMAT_NOT_SUPPORTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57002): message : Siehe vorherige Definition von "D2DERR_DISPLAY_FORMAT_NOT_SUPPORTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(108,1): warning C4005: "D2DERR_INVALID_CALL": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57011): message : Siehe vorherige Definition von "D2DERR_INVALID_CALL"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(113,1): warning C4005: "D2DERR_NO_HARDWARE_DEVICE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57020): message : Siehe vorherige Definition von "D2DERR_NO_HARDWARE_DEVICE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(119,1): warning C4005: "D2DERR_RECREATE_TARGET": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57029): message : Siehe vorherige Definition von "D2DERR_RECREATE_TARGET"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(124,1): warning C4005: "D2DERR_TOO_MANY_SHADER_ELEMENTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57038): message : Siehe vorherige Definition von "D2DERR_TOO_MANY_SHADER_ELEMENTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(129,1): warning C4005: "D2DERR_SHADER_COMPILE_FAILED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57047): message : Siehe vorherige Definition von "D2DERR_SHADER_COMPILE_FAILED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(134,1): warning C4005: "D2DERR_MAX_TEXTURE_SIZE_EXCEEDED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57056): message : Siehe vorherige Definition von "D2DERR_MAX_TEXTURE_SIZE_EXCEEDED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(139,1): warning C4005: "D2DERR_UNSUPPORTED_VERSION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57065): message : Siehe vorherige Definition von "D2DERR_UNSUPPORTED_VERSION"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(144,1): warning C4005: "D2DERR_BAD_NUMBER": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57074): message : Siehe vorherige Definition von "D2DERR_BAD_NUMBER"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(149,1): warning C4005: "D2DERR_WRONG_FACTORY": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57083): message : Siehe vorherige Definition von "D2DERR_WRONG_FACTORY"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(154,1): warning C4005: "D2DERR_LAYER_ALREADY_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57092): message : Siehe vorherige Definition von "D2DERR_LAYER_ALREADY_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(159,1): warning C4005: "D2DERR_POP_CALL_DID_NOT_MATCH_PUSH": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57101): message : Siehe vorherige Definition von "D2DERR_POP_CALL_DID_NOT_MATCH_PUSH"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(164,1): warning C4005: "D2DERR_WRONG_RESOURCE_DOMAIN": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57110): message : Siehe vorherige Definition von "D2DERR_WRONG_RESOURCE_DOMAIN"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(169,1): warning C4005: "D2DERR_PUSH_POP_UNBALANCED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57119): message : Siehe vorherige Definition von "D2DERR_PUSH_POP_UNBALANCED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(174,1): warning C4005: "D2DERR_RENDER_TARGET_HAS_LAYER_OR_CLIPRECT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57128): message : Siehe vorherige Definition von "D2DERR_RENDER_TARGET_HAS_LAYER_OR_CLIPRECT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(179,1): warning C4005: "D2DERR_INCOMPATIBLE_BRUSH_TYPES": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57137): message : Siehe vorherige Definition von "D2DERR_INCOMPATIBLE_BRUSH_TYPES"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(184,1): warning C4005: "D2DERR_WIN32_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57146): message : Siehe vorherige Definition von "D2DERR_WIN32_ERROR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(189,1): warning C4005: "D2DERR_TARGET_NOT_GDI_COMPATIBLE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57155): message : Siehe vorherige Definition von "D2DERR_TARGET_NOT_GDI_COMPATIBLE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(194,1): warning C4005: "D2DERR_TEXT_EFFECT_IS_WRONG_TYPE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57164): message : Siehe vorherige Definition von "D2DERR_TEXT_EFFECT_IS_WRONG_TYPE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(201,1): warning C4005: "D2DERR_TEXT_RENDERER_NOT_RELEASED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57173): message : Siehe vorherige Definition von "D2DERR_TEXT_RENDERER_NOT_RELEASED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(206,1): warning C4005: "D2DERR_EXCEEDS_MAX_BITMAP_SIZE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57182): message : Siehe vorherige Definition von "D2DERR_EXCEEDS_MAX_BITMAP_SIZE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56388): message : Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56397): message : Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56406): message : Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56415): message : Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56424): message : Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56433): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56442): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56457): message : Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56466): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56475): message : Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56484): message : Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56493): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56502): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56512): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56521): message : Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56531): message : Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56540): message : Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56550): message : Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56559): message : Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56568): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56578): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56587): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56841): message : Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56850): message : Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4962,1): warning C4005: "DWRITE_E_FILEFORMAT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57349): message : Siehe vorherige Definition von "DWRITE_E_FILEFORMAT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4967,1): warning C4005: "DWRITE_E_UNEXPECTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57358): message : Siehe vorherige Definition von "DWRITE_E_UNEXPECTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4972,1): warning C4005: "DWRITE_E_NOFONT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57367): message : Siehe vorherige Definition von "DWRITE_E_NOFONT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4978,1): warning C4005: "DWRITE_E_FILENOTFOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57376): message : Siehe vorherige Definition von "DWRITE_E_FILENOTFOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4983,1): warning C4005: "DWRITE_E_FILEACCESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57385): message : Siehe vorherige Definition von "DWRITE_E_FILEACCESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4988,1): warning C4005: "DWRITE_E_FONTCOLLECTIONOBSOLETE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57394): message : Siehe vorherige Definition von "DWRITE_E_FONTCOLLECTIONOBSOLETE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4993,1): warning C4005: "DWRITE_E_ALREADYREGISTERED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57403): message : Siehe vorherige Definition von "DWRITE_E_ALREADYREGISTERED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(21,1): warning C4005: "RT_MANIFEST": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(282): message : Siehe vorherige Definition von "RT_MANIFEST"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(22,1): warning C4005: "CREATEPROCESS_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(283): message : Siehe vorherige Definition von "CREATEPROCESS_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(23,1): warning C4005: "ISOLATIONAWARE_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(284): message : Siehe vorherige Definition von "ISOLATIONAWARE_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(24,1): warning C4005: "ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(285): message : Siehe vorherige Definition von "ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(25,1): warning C4005: "ISOLATIONPOLICY_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(286): message : Siehe vorherige Definition von "ISOLATIONPOLICY_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(26,1): warning C4005: "ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(287): message : Siehe vorherige Definition von "ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(27,1): warning C4005: "MINIMUM_RESERVED_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(288): message : Siehe vorherige Definition von "MINIMUM_RESERVED_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(28,1): warning C4005: "MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(289): message : Siehe vorherige Definition von "MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3D11.h(917,1): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56865): message : Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3D11.h(918,1): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56874): message : Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3D11.h(919,1): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56884): message : Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3D11.h(920,1): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56893): message : Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Aimbot.cpp(88,42): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Aimbot.cpp(88,68): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Aimbot.cpp(162,64): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Aimbot.cpp(163,46): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Aimbot.cpp(318,14): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Aimbot.cpp(320,22): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Aimbot.cpp(434,63): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Aimbot.cpp(434,45): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Aimbot.cpp(436,69): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Aimbot.cpp(436,46): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Aimbot.cpp(469,93): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Aimbot.cpp(468,92): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\baseadress.h(14,32): warning C4244: "Argument": Konvertierung von "uint64_t" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\baseadress.h(39): message : Siehe Verweis auf die gerade kompilierte Instanziierung "bool read<T>(uint64_t,T &)" der Funktions-Vorlage.
+          with
+          [
+              T=int
+          ]
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Aimbot.cpp(37): message : Siehe Verweis auf die gerade kompilierte Instanziierung "T read<int>(uint64_t)" der Funktions-Vorlage.
+          with
+          [
+              T=int
+          ]
+  CGraphics.cpp
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\CGraphics.cpp(54,10): warning C4305: "=": Verkürzung von "double" in "float"
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\baseadress.h(14,32): warning C4244: "Argument": Konvertierung von "uint64_t" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\baseadress.h(39): message : Siehe Verweis auf die gerade kompilierte Instanziierung "bool read<T>(uint64_t,T &)" der Funktions-Vorlage.
+          with
+          [
+              T=Vector3
+          ]
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\CGraphics.cpp(10): message : Siehe Verweis auf die gerade kompilierte Instanziierung "T read<Vector3>(uint64_t)" der Funktions-Vorlage.
+          with
+          [
+              T=Vector3
+          ]
+  Coding.cpp
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.h(1,1): warning C4005: "_CRT_SECURE_NO_WARNINGS": Makro-Neudefinition
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Coding.cpp : message : Siehe vorherige Definition von "_CRT_SECURE_NO_WARNINGS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(59,1): warning C4005: "D2DERR_WRONG_STATE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56930): message : Siehe vorherige Definition von "D2DERR_WRONG_STATE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(64,1): warning C4005: "D2DERR_NOT_INITIALIZED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56939): message : Siehe vorherige Definition von "D2DERR_NOT_INITIALIZED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(69,1): warning C4005: "D2DERR_UNSUPPORTED_OPERATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56948): message : Siehe vorherige Definition von "D2DERR_UNSUPPORTED_OPERATION"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(74,1): warning C4005: "D2DERR_SCANNER_FAILED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56957): message : Siehe vorherige Definition von "D2DERR_SCANNER_FAILED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(79,1): warning C4005: "D2DERR_SCREEN_ACCESS_DENIED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56966): message : Siehe vorherige Definition von "D2DERR_SCREEN_ACCESS_DENIED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(84,1): warning C4005: "D2DERR_DISPLAY_STATE_INVALID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56975): message : Siehe vorherige Definition von "D2DERR_DISPLAY_STATE_INVALID"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(89,1): warning C4005: "D2DERR_ZERO_VECTOR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56984): message : Siehe vorherige Definition von "D2DERR_ZERO_VECTOR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(97,1): warning C4005: "D2DERR_INTERNAL_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56993): message : Siehe vorherige Definition von "D2DERR_INTERNAL_ERROR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(103,1): warning C4005: "D2DERR_DISPLAY_FORMAT_NOT_SUPPORTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57002): message : Siehe vorherige Definition von "D2DERR_DISPLAY_FORMAT_NOT_SUPPORTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(108,1): warning C4005: "D2DERR_INVALID_CALL": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57011): message : Siehe vorherige Definition von "D2DERR_INVALID_CALL"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(113,1): warning C4005: "D2DERR_NO_HARDWARE_DEVICE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57020): message : Siehe vorherige Definition von "D2DERR_NO_HARDWARE_DEVICE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(119,1): warning C4005: "D2DERR_RECREATE_TARGET": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57029): message : Siehe vorherige Definition von "D2DERR_RECREATE_TARGET"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(124,1): warning C4005: "D2DERR_TOO_MANY_SHADER_ELEMENTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57038): message : Siehe vorherige Definition von "D2DERR_TOO_MANY_SHADER_ELEMENTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(129,1): warning C4005: "D2DERR_SHADER_COMPILE_FAILED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57047): message : Siehe vorherige Definition von "D2DERR_SHADER_COMPILE_FAILED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(134,1): warning C4005: "D2DERR_MAX_TEXTURE_SIZE_EXCEEDED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57056): message : Siehe vorherige Definition von "D2DERR_MAX_TEXTURE_SIZE_EXCEEDED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(139,1): warning C4005: "D2DERR_UNSUPPORTED_VERSION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57065): message : Siehe vorherige Definition von "D2DERR_UNSUPPORTED_VERSION"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(144,1): warning C4005: "D2DERR_BAD_NUMBER": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57074): message : Siehe vorherige Definition von "D2DERR_BAD_NUMBER"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(149,1): warning C4005: "D2DERR_WRONG_FACTORY": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57083): message : Siehe vorherige Definition von "D2DERR_WRONG_FACTORY"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(154,1): warning C4005: "D2DERR_LAYER_ALREADY_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57092): message : Siehe vorherige Definition von "D2DERR_LAYER_ALREADY_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(159,1): warning C4005: "D2DERR_POP_CALL_DID_NOT_MATCH_PUSH": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57101): message : Siehe vorherige Definition von "D2DERR_POP_CALL_DID_NOT_MATCH_PUSH"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(164,1): warning C4005: "D2DERR_WRONG_RESOURCE_DOMAIN": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57110): message : Siehe vorherige Definition von "D2DERR_WRONG_RESOURCE_DOMAIN"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(169,1): warning C4005: "D2DERR_PUSH_POP_UNBALANCED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57119): message : Siehe vorherige Definition von "D2DERR_PUSH_POP_UNBALANCED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(174,1): warning C4005: "D2DERR_RENDER_TARGET_HAS_LAYER_OR_CLIPRECT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57128): message : Siehe vorherige Definition von "D2DERR_RENDER_TARGET_HAS_LAYER_OR_CLIPRECT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(179,1): warning C4005: "D2DERR_INCOMPATIBLE_BRUSH_TYPES": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57137): message : Siehe vorherige Definition von "D2DERR_INCOMPATIBLE_BRUSH_TYPES"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(184,1): warning C4005: "D2DERR_WIN32_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57146): message : Siehe vorherige Definition von "D2DERR_WIN32_ERROR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(189,1): warning C4005: "D2DERR_TARGET_NOT_GDI_COMPATIBLE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57155): message : Siehe vorherige Definition von "D2DERR_TARGET_NOT_GDI_COMPATIBLE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(194,1): warning C4005: "D2DERR_TEXT_EFFECT_IS_WRONG_TYPE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57164): message : Siehe vorherige Definition von "D2DERR_TEXT_EFFECT_IS_WRONG_TYPE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(201,1): warning C4005: "D2DERR_TEXT_RENDERER_NOT_RELEASED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57173): message : Siehe vorherige Definition von "D2DERR_TEXT_RENDERER_NOT_RELEASED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(206,1): warning C4005: "D2DERR_EXCEEDS_MAX_BITMAP_SIZE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57182): message : Siehe vorherige Definition von "D2DERR_EXCEEDS_MAX_BITMAP_SIZE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56388): message : Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56397): message : Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56406): message : Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56415): message : Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56424): message : Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56433): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56442): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56457): message : Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56466): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56475): message : Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56484): message : Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56493): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56502): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56512): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56521): message : Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56531): message : Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56540): message : Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56550): message : Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56559): message : Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56568): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56578): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56587): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56841): message : Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56850): message : Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4962,1): warning C4005: "DWRITE_E_FILEFORMAT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57349): message : Siehe vorherige Definition von "DWRITE_E_FILEFORMAT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4967,1): warning C4005: "DWRITE_E_UNEXPECTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57358): message : Siehe vorherige Definition von "DWRITE_E_UNEXPECTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4972,1): warning C4005: "DWRITE_E_NOFONT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57367): message : Siehe vorherige Definition von "DWRITE_E_NOFONT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4978,1): warning C4005: "DWRITE_E_FILENOTFOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57376): message : Siehe vorherige Definition von "DWRITE_E_FILENOTFOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4983,1): warning C4005: "DWRITE_E_FILEACCESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57385): message : Siehe vorherige Definition von "DWRITE_E_FILEACCESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4988,1): warning C4005: "DWRITE_E_FONTCOLLECTIONOBSOLETE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57394): message : Siehe vorherige Definition von "DWRITE_E_FONTCOLLECTIONOBSOLETE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4993,1): warning C4005: "DWRITE_E_ALREADYREGISTERED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57403): message : Siehe vorherige Definition von "DWRITE_E_ALREADYREGISTERED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(21,1): warning C4005: "RT_MANIFEST": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(282): message : Siehe vorherige Definition von "RT_MANIFEST"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(22,1): warning C4005: "CREATEPROCESS_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(283): message : Siehe vorherige Definition von "CREATEPROCESS_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(23,1): warning C4005: "ISOLATIONAWARE_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(284): message : Siehe vorherige Definition von "ISOLATIONAWARE_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(24,1): warning C4005: "ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(285): message : Siehe vorherige Definition von "ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(25,1): warning C4005: "ISOLATIONPOLICY_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(286): message : Siehe vorherige Definition von "ISOLATIONPOLICY_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(26,1): warning C4005: "ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(287): message : Siehe vorherige Definition von "ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(27,1): warning C4005: "MINIMUM_RESERVED_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(288): message : Siehe vorherige Definition von "MINIMUM_RESERVED_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(28,1): warning C4005: "MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(289): message : Siehe vorherige Definition von "MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID"
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Coding.cpp(65,40): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Coding.cpp(64,40): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Coding.cpp(63,40): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Coding.cpp(62,40): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Coding.cpp(70,40): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Coding.cpp(69,40): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Coding.cpp(68,40): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Coding.cpp(67,40): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Coding.cpp(75,40): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Coding.cpp(74,40): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Coding.cpp(73,40): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Coding.cpp(72,40): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Coding.cpp(80,40): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Coding.cpp(79,40): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Coding.cpp(78,40): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Coding.cpp(77,40): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Coding.cpp(190,10): warning C4129: " ": nicht erkannte Folge von Escapesequenz
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Coding.cpp(214,34): warning C4244: "Argument": Konvertierung von "const uint64_t" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\baseadress.h(14,32): warning C4244: "Argument": Konvertierung von "uint64_t" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\baseadress.h(39): message : Siehe Verweis auf die gerade kompilierte Instanziierung "bool read<T>(uint64_t,T &)" der Funktions-Vorlage.
+          with
+          [
+              T=IMAGE_DOS_HEADER
+          ]
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Coding.cpp(223): message : Siehe Verweis auf die gerade kompilierte Instanziierung "T read<IMAGE_DOS_HEADER>(uint64_t)" der Funktions-Vorlage.
+          with
+          [
+              T=IMAGE_DOS_HEADER
+          ]
+  Esp.cpp
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.h(1,1): warning C4005: "_CRT_SECURE_NO_WARNINGS": Makro-Neudefinition
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp : message : Siehe vorherige Definition von "_CRT_SECURE_NO_WARNINGS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(59,1): warning C4005: "D2DERR_WRONG_STATE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56930): message : Siehe vorherige Definition von "D2DERR_WRONG_STATE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(64,1): warning C4005: "D2DERR_NOT_INITIALIZED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56939): message : Siehe vorherige Definition von "D2DERR_NOT_INITIALIZED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(69,1): warning C4005: "D2DERR_UNSUPPORTED_OPERATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56948): message : Siehe vorherige Definition von "D2DERR_UNSUPPORTED_OPERATION"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(74,1): warning C4005: "D2DERR_SCANNER_FAILED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56957): message : Siehe vorherige Definition von "D2DERR_SCANNER_FAILED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(79,1): warning C4005: "D2DERR_SCREEN_ACCESS_DENIED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56966): message : Siehe vorherige Definition von "D2DERR_SCREEN_ACCESS_DENIED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(84,1): warning C4005: "D2DERR_DISPLAY_STATE_INVALID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56975): message : Siehe vorherige Definition von "D2DERR_DISPLAY_STATE_INVALID"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(89,1): warning C4005: "D2DERR_ZERO_VECTOR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56984): message : Siehe vorherige Definition von "D2DERR_ZERO_VECTOR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(97,1): warning C4005: "D2DERR_INTERNAL_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56993): message : Siehe vorherige Definition von "D2DERR_INTERNAL_ERROR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(103,1): warning C4005: "D2DERR_DISPLAY_FORMAT_NOT_SUPPORTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57002): message : Siehe vorherige Definition von "D2DERR_DISPLAY_FORMAT_NOT_SUPPORTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(108,1): warning C4005: "D2DERR_INVALID_CALL": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57011): message : Siehe vorherige Definition von "D2DERR_INVALID_CALL"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(113,1): warning C4005: "D2DERR_NO_HARDWARE_DEVICE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57020): message : Siehe vorherige Definition von "D2DERR_NO_HARDWARE_DEVICE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(119,1): warning C4005: "D2DERR_RECREATE_TARGET": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57029): message : Siehe vorherige Definition von "D2DERR_RECREATE_TARGET"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(124,1): warning C4005: "D2DERR_TOO_MANY_SHADER_ELEMENTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57038): message : Siehe vorherige Definition von "D2DERR_TOO_MANY_SHADER_ELEMENTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(129,1): warning C4005: "D2DERR_SHADER_COMPILE_FAILED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57047): message : Siehe vorherige Definition von "D2DERR_SHADER_COMPILE_FAILED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(134,1): warning C4005: "D2DERR_MAX_TEXTURE_SIZE_EXCEEDED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57056): message : Siehe vorherige Definition von "D2DERR_MAX_TEXTURE_SIZE_EXCEEDED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(139,1): warning C4005: "D2DERR_UNSUPPORTED_VERSION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57065): message : Siehe vorherige Definition von "D2DERR_UNSUPPORTED_VERSION"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(144,1): warning C4005: "D2DERR_BAD_NUMBER": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57074): message : Siehe vorherige Definition von "D2DERR_BAD_NUMBER"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(149,1): warning C4005: "D2DERR_WRONG_FACTORY": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57083): message : Siehe vorherige Definition von "D2DERR_WRONG_FACTORY"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(154,1): warning C4005: "D2DERR_LAYER_ALREADY_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57092): message : Siehe vorherige Definition von "D2DERR_LAYER_ALREADY_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(159,1): warning C4005: "D2DERR_POP_CALL_DID_NOT_MATCH_PUSH": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57101): message : Siehe vorherige Definition von "D2DERR_POP_CALL_DID_NOT_MATCH_PUSH"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(164,1): warning C4005: "D2DERR_WRONG_RESOURCE_DOMAIN": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57110): message : Siehe vorherige Definition von "D2DERR_WRONG_RESOURCE_DOMAIN"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(169,1): warning C4005: "D2DERR_PUSH_POP_UNBALANCED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57119): message : Siehe vorherige Definition von "D2DERR_PUSH_POP_UNBALANCED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(174,1): warning C4005: "D2DERR_RENDER_TARGET_HAS_LAYER_OR_CLIPRECT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57128): message : Siehe vorherige Definition von "D2DERR_RENDER_TARGET_HAS_LAYER_OR_CLIPRECT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(179,1): warning C4005: "D2DERR_INCOMPATIBLE_BRUSH_TYPES": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57137): message : Siehe vorherige Definition von "D2DERR_INCOMPATIBLE_BRUSH_TYPES"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(184,1): warning C4005: "D2DERR_WIN32_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57146): message : Siehe vorherige Definition von "D2DERR_WIN32_ERROR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(189,1): warning C4005: "D2DERR_TARGET_NOT_GDI_COMPATIBLE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57155): message : Siehe vorherige Definition von "D2DERR_TARGET_NOT_GDI_COMPATIBLE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(194,1): warning C4005: "D2DERR_TEXT_EFFECT_IS_WRONG_TYPE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57164): message : Siehe vorherige Definition von "D2DERR_TEXT_EFFECT_IS_WRONG_TYPE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(201,1): warning C4005: "D2DERR_TEXT_RENDERER_NOT_RELEASED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57173): message : Siehe vorherige Definition von "D2DERR_TEXT_RENDERER_NOT_RELEASED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(206,1): warning C4005: "D2DERR_EXCEEDS_MAX_BITMAP_SIZE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57182): message : Siehe vorherige Definition von "D2DERR_EXCEEDS_MAX_BITMAP_SIZE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56388): message : Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56397): message : Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56406): message : Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56415): message : Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56424): message : Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56433): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56442): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56457): message : Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56466): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56475): message : Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56484): message : Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56493): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56502): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56512): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56521): message : Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56531): message : Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56540): message : Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56550): message : Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56559): message : Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56568): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56578): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56587): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56841): message : Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56850): message : Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4962,1): warning C4005: "DWRITE_E_FILEFORMAT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57349): message : Siehe vorherige Definition von "DWRITE_E_FILEFORMAT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4967,1): warning C4005: "DWRITE_E_UNEXPECTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57358): message : Siehe vorherige Definition von "DWRITE_E_UNEXPECTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4972,1): warning C4005: "DWRITE_E_NOFONT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57367): message : Siehe vorherige Definition von "DWRITE_E_NOFONT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4978,1): warning C4005: "DWRITE_E_FILENOTFOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57376): message : Siehe vorherige Definition von "DWRITE_E_FILENOTFOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4983,1): warning C4005: "DWRITE_E_FILEACCESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57385): message : Siehe vorherige Definition von "DWRITE_E_FILEACCESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4988,1): warning C4005: "DWRITE_E_FONTCOLLECTIONOBSOLETE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57394): message : Siehe vorherige Definition von "DWRITE_E_FONTCOLLECTIONOBSOLETE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4993,1): warning C4005: "DWRITE_E_ALREADYREGISTERED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57403): message : Siehe vorherige Definition von "DWRITE_E_ALREADYREGISTERED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(21,1): warning C4005: "RT_MANIFEST": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(282): message : Siehe vorherige Definition von "RT_MANIFEST"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(22,1): warning C4005: "CREATEPROCESS_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(283): message : Siehe vorherige Definition von "CREATEPROCESS_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(23,1): warning C4005: "ISOLATIONAWARE_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(284): message : Siehe vorherige Definition von "ISOLATIONAWARE_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(24,1): warning C4005: "ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(285): message : Siehe vorherige Definition von "ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(25,1): warning C4005: "ISOLATIONPOLICY_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(286): message : Siehe vorherige Definition von "ISOLATIONPOLICY_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(26,1): warning C4005: "ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(287): message : Siehe vorherige Definition von "ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(27,1): warning C4005: "MINIMUM_RESERVED_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(288): message : Siehe vorherige Definition von "MINIMUM_RESERVED_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(28,1): warning C4005: "MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(289): message : Siehe vorherige Definition von "MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID"
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(78,22): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(78,16): warning C4244: "Initialisierung": Konvertierung von "double" in "const float", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(89,25): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(96,27): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(149,15): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(163,42): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(163,20): warning C4244: "Initialisierung": Konvertierung von "double" in "const float", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(172,52): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(172,35): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(179,58): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(179,47): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(179,38): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(179,27): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(180,83): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(180,69): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(180,41): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(180,27): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(181,61): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(181,47): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(181,38): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(181,27): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(182,61): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(182,47): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(182,38): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(182,27): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(185,60): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(185,40): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(186,90): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(186,70): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(186,50): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(186,34): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(188,53): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(188,34): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(209,58): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(209,39): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(210,45): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(210,33): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(212,80): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(212,61): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(212,43): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(212,31): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(213,75): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(213,59): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(213,43): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(213,31): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(215,57): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(215,37): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(216,51): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(216,34): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(227,57): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(227,37): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(228,57): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(228,37): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(229,57): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(229,37): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(231,57): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(231,37): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(232,57): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(232,37): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(233,57): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(233,37): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(252,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(264,39): warning C4244: "=": Konvertierung von "double" in "T", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(281,72): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(281,56): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(287,71): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(287,55): warning C4244: "Argument": Konvertierung von "const float" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(191,13): warning C4101: "test": Unreferenzierte lokale Variable
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(314,37): warning C4244: "Initialisierung": Konvertierung von "T" in "int", möglicher Datenverlust
+          with
+          [
+              T=uint64_t
+          ]
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(314,21): warning C4244: "Initialisierung": Konvertierung von "T" in "const int", möglicher Datenverlust
+          with
+          [
+              T=uint64_t
+          ]
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\baseadress.h(14,32): warning C4244: "Argument": Konvertierung von "uint64_t" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\baseadress.h(39): message : Siehe Verweis auf die gerade kompilierte Instanziierung "bool read<T>(uint64_t,T &)" der Funktions-Vorlage.
+          with
+          [
+              T=uint64_t
+          ]
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Esp.cpp(127): message : Siehe Verweis auf die gerade kompilierte Instanziierung "T read<uint64_t>(uint64_t)" der Funktions-Vorlage.
+          with
+          [
+              T=uint64_t
+          ]
+  Inputs.cpp
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(282,1): warning C4005: "RT_MANIFEST": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(21): message : Siehe vorherige Definition von "RT_MANIFEST"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(283,1): warning C4005: "CREATEPROCESS_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(22): message : Siehe vorherige Definition von "CREATEPROCESS_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(284,1): warning C4005: "ISOLATIONAWARE_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(23): message : Siehe vorherige Definition von "ISOLATIONAWARE_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(285,1): warning C4005: "ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(24): message : Siehe vorherige Definition von "ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(286,1): warning C4005: "ISOLATIONPOLICY_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(25): message : Siehe vorherige Definition von "ISOLATIONPOLICY_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(287,1): warning C4005: "ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(26): message : Siehe vorherige Definition von "ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(288,1): warning C4005: "MINIMUM_RESERVED_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(27): message : Siehe vorherige Definition von "MINIMUM_RESERVED_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(289,1): warning C4005: "MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(28): message : Siehe vorherige Definition von "MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(2179,1): warning C4005: "WM_KEYLAST": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(554): message : Siehe vorherige Definition von "WM_KEYLAST"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(2275,1): warning C4005: "WM_MOUSELAST": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(653): message : Siehe vorherige Definition von "WM_MOUSELAST"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(3127,1): warning C4005: "CF_MAX": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(1183): message : Siehe vorherige Definition von "CF_MAX"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56388): message : Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56397): message : Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56406): message : Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56415): message : Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56424): message : Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56433): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56442): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56457): message : Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56466): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56475): message : Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56484): message : Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56493): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56502): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56512): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56521): message : Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56531): message : Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56540): message : Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56550): message : Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56559): message : Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56568): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56578): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56587): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3D11.h(917,1): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56865): message : Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3D11.h(918,1): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56874): message : Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3D11.h(919,1): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56884): message : Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3D11.h(920,1): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56893): message : Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56841): message : Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56850): message : Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\main.cpp(138,39): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\main.cpp(138,23): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\main.cpp(148,39): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\main.cpp(148,23): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\ImGui\imgui_draw.cpp(4197,18): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  imgui_impl_dx11.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56388): message : Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56397): message : Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56406): message : Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56415): message : Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56424): message : Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56433): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56442): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56457): message : Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56466): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56475): message : Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56484): message : Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56493): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56502): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56512): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56521): message : Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56531): message : Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56540): message : Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56550): message : Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56559): message : Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56568): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56578): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56587): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,1): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56865): message : Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,1): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56874): message : Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,1): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56884): message : Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,1): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56893): message : Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56841): message : Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56850): message : Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\ImGui\imgui_widgets.cpp(3447,74): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\ImGui\imgui_widgets.cpp(3448,73): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  baseadress.cpp
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\readbase.hpp(10,1): warning C4005: "NT_SUCCESS": Makro-Neudefinition
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\nt.hpp(34): message : Siehe vorherige Definition von "NT_SUCCESS"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(66,1): warning C4005: "STATUS_WAIT_0": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2510): message : Siehe vorherige Definition von "STATUS_WAIT_0"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(222,1): warning C4005: "STATUS_ABANDONED_WAIT_0": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2511): message : Siehe vorherige Definition von "STATUS_ABANDONED_WAIT_0"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(245,1): warning C4005: "STATUS_USER_APC": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2512): message : Siehe vorherige Definition von "STATUS_USER_APC"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(281,1): warning C4005: "STATUS_TIMEOUT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2513): message : Siehe vorherige Definition von "STATUS_TIMEOUT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(290,1): warning C4005: "STATUS_PENDING": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2514): message : Siehe vorherige Definition von "STATUS_PENDING"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(737,1): warning C4005: "DBG_EXCEPTION_HANDLED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2515): message : Siehe vorherige Definition von "DBG_EXCEPTION_HANDLED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(746,1): warning C4005: "DBG_CONTINUE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2516): message : Siehe vorherige Definition von "DBG_CONTINUE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(821,1): warning C4005: "STATUS_SEGMENT_NOTIFICATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2517): message : Siehe vorherige Definition von "STATUS_SEGMENT_NOTIFICATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(984,1): warning C4005: "STATUS_FATAL_APP_EXIT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2518): message : Siehe vorherige Definition von "STATUS_FATAL_APP_EXIT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1304,1): warning C4005: "DBG_REPLY_LATER": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2519): message : Siehe vorherige Definition von "DBG_REPLY_LATER"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1322,1): warning C4005: "DBG_TERMINATE_THREAD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2520): message : Siehe vorherige Definition von "DBG_TERMINATE_THREAD"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1331,1): warning C4005: "DBG_TERMINATE_PROCESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2521): message : Siehe vorherige Definition von "DBG_TERMINATE_PROCESS"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1340,1): warning C4005: "DBG_CONTROL_C": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2522): message : Siehe vorherige Definition von "DBG_CONTROL_C"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1349,1): warning C4005: "DBG_PRINTEXCEPTION_C": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2523): message : Siehe vorherige Definition von "DBG_PRINTEXCEPTION_C"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1358,1): warning C4005: "DBG_RIPEXCEPTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2524): message : Siehe vorherige Definition von "DBG_RIPEXCEPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1367,1): warning C4005: "DBG_CONTROL_BREAK": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2525): message : Siehe vorherige Definition von "DBG_CONTROL_BREAK"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1376,1): warning C4005: "DBG_COMMAND_EXCEPTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2526): message : Siehe vorherige Definition von "DBG_COMMAND_EXCEPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1385,1): warning C4005: "DBG_PRINTEXCEPTION_WIDE_C": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2527): message : Siehe vorherige Definition von "DBG_PRINTEXCEPTION_WIDE_C"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1417,1): warning C4005: "STATUS_GUARD_PAGE_VIOLATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2528): message : Siehe vorherige Definition von "STATUS_GUARD_PAGE_VIOLATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1428,1): warning C4005: "STATUS_DATATYPE_MISALIGNMENT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2529): message : Siehe vorherige Definition von "STATUS_DATATYPE_MISALIGNMENT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1439,1): warning C4005: "STATUS_BREAKPOINT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2530): message : Siehe vorherige Definition von "STATUS_BREAKPOINT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1450,1): warning C4005: "STATUS_SINGLE_STEP": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2531): message : Siehe vorherige Definition von "STATUS_SINGLE_STEP"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1753,1): warning C4005: "STATUS_LONGJUMP": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2532): message : Siehe vorherige Definition von "STATUS_LONGJUMP"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1780,1): warning C4005: "STATUS_UNWIND_CONSOLIDATE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2533): message : Siehe vorherige Definition von "STATUS_UNWIND_CONSOLIDATE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1884,1): warning C4005: "DBG_EXCEPTION_NOT_HANDLED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2534): message : Siehe vorherige Definition von "DBG_EXCEPTION_NOT_HANDLED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2030,1): warning C4005: "STATUS_ACCESS_VIOLATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2535): message : Siehe vorherige Definition von "STATUS_ACCESS_VIOLATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2039,1): warning C4005: "STATUS_IN_PAGE_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2536): message : Siehe vorherige Definition von "STATUS_IN_PAGE_ERROR"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2057,1): warning C4005: "STATUS_INVALID_HANDLE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2537): message : Siehe vorherige Definition von "STATUS_INVALID_HANDLE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2102,1): warning C4005: "STATUS_INVALID_PARAMETER": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2538): message : Siehe vorherige Definition von "STATUS_INVALID_PARAMETER"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2202,1): warning C4005: "STATUS_NO_MEMORY": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2539): message : Siehe vorherige Definition von "STATUS_NO_MEMORY"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2259,1): warning C4005: "STATUS_ILLEGAL_INSTRUCTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2540): message : Siehe vorherige Definition von "STATUS_ILLEGAL_INSTRUCTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2340,1): warning C4005: "STATUS_NONCONTINUABLE_EXCEPTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2541): message : Siehe vorherige Definition von "STATUS_NONCONTINUABLE_EXCEPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2349,1): warning C4005: "STATUS_INVALID_DISPOSITION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2542): message : Siehe vorherige Definition von "STATUS_INVALID_DISPOSITION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3282,1): warning C4005: "STATUS_ARRAY_BOUNDS_EXCEEDED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2543): message : Siehe vorherige Definition von "STATUS_ARRAY_BOUNDS_EXCEEDED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3292,1): warning C4005: "STATUS_FLOAT_DENORMAL_OPERAND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2544): message : Siehe vorherige Definition von "STATUS_FLOAT_DENORMAL_OPERAND"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3302,1): warning C4005: "STATUS_FLOAT_DIVIDE_BY_ZERO": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2545): message : Siehe vorherige Definition von "STATUS_FLOAT_DIVIDE_BY_ZERO"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3312,1): warning C4005: "STATUS_FLOAT_INEXACT_RESULT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2546): message : Siehe vorherige Definition von "STATUS_FLOAT_INEXACT_RESULT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3322,1): warning C4005: "STATUS_FLOAT_INVALID_OPERATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2547): message : Siehe vorherige Definition von "STATUS_FLOAT_INVALID_OPERATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3332,1): warning C4005: "STATUS_FLOAT_OVERFLOW": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2548): message : Siehe vorherige Definition von "STATUS_FLOAT_OVERFLOW"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3342,1): warning C4005: "STATUS_FLOAT_STACK_CHECK": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2549): message : Siehe vorherige Definition von "STATUS_FLOAT_STACK_CHECK"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3352,1): warning C4005: "STATUS_FLOAT_UNDERFLOW": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2550): message : Siehe vorherige Definition von "STATUS_FLOAT_UNDERFLOW"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3362,1): warning C4005: "STATUS_INTEGER_DIVIDE_BY_ZERO": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2551): message : Siehe vorherige Definition von "STATUS_INTEGER_DIVIDE_BY_ZERO"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3372,1): warning C4005: "STATUS_INTEGER_OVERFLOW": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2552): message : Siehe vorherige Definition von "STATUS_INTEGER_OVERFLOW"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3382,1): warning C4005: "STATUS_PRIVILEGED_INSTRUCTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2553): message : Siehe vorherige Definition von "STATUS_PRIVILEGED_INSTRUCTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(4328,1): warning C4005: "STATUS_STACK_OVERFLOW": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2554): message : Siehe vorherige Definition von "STATUS_STACK_OVERFLOW"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(4845,1): warning C4005: "STATUS_DLL_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2555): message : Siehe vorherige Definition von "STATUS_DLL_NOT_FOUND"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(4874,1): warning C4005: "STATUS_ORDINAL_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2556): message : Siehe vorherige Definition von "STATUS_ORDINAL_NOT_FOUND"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(4884,1): warning C4005: "STATUS_ENTRYPOINT_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2557): message : Siehe vorherige Definition von "STATUS_ENTRYPOINT_NOT_FOUND"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(4894,1): warning C4005: "STATUS_CONTROL_C_EXIT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2558): message : Siehe vorherige Definition von "STATUS_CONTROL_C_EXIT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(4972,1): warning C4005: "STATUS_DLL_INIT_FAILED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2559): message : Siehe vorherige Definition von "STATUS_DLL_INIT_FAILED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(5969,1): warning C4005: "STATUS_CONTROL_STACK_VIOLATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2560): message : Siehe vorherige Definition von "STATUS_CONTROL_STACK_VIOLATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(7527,1): warning C4005: "STATUS_FLOAT_MULTIPLE_FAULTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2561): message : Siehe vorherige Definition von "STATUS_FLOAT_MULTIPLE_FAULTS"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(7537,1): warning C4005: "STATUS_FLOAT_MULTIPLE_TRAPS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2562): message : Siehe vorherige Definition von "STATUS_FLOAT_MULTIPLE_TRAPS"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(7669,1): warning C4005: "STATUS_REG_NAT_CONSUMPTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2563): message : Siehe vorherige Definition von "STATUS_REG_NAT_CONSUMPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(8652,1): warning C4005: "STATUS_HEAP_CORRUPTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2564): message : Siehe vorherige Definition von "STATUS_HEAP_CORRUPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(8880,1): warning C4005: "STATUS_STACK_BUFFER_OVERRUN": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2565): message : Siehe vorherige Definition von "STATUS_STACK_BUFFER_OVERRUN"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(9007,1): warning C4005: "STATUS_INVALID_CRUNTIME_PARAMETER": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2566): message : Siehe vorherige Definition von "STATUS_INVALID_CRUNTIME_PARAMETER"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(9070,1): warning C4005: "STATUS_ASSERTION_FAILURE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2567): message : Siehe vorherige Definition von "STATUS_ASSERTION_FAILURE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(9988,1): warning C4005: "STATUS_ENCLAVE_VIOLATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2568): message : Siehe vorherige Definition von "STATUS_ENCLAVE_VIOLATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(10415,1): warning C4005: "STATUS_INTERRUPTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2569): message : Siehe vorherige Definition von "STATUS_INTERRUPTED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(10424,1): warning C4005: "STATUS_THREAD_NOT_RUNNING": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2570): message : Siehe vorherige Definition von "STATUS_THREAD_NOT_RUNNING"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(10718,1): warning C4005: "STATUS_ALREADY_REGISTERED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2571): message : Siehe vorherige Definition von "STATUS_ALREADY_REGISTERED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(14352,1): warning C4005: "STATUS_SXS_EARLY_DEACTIVATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2573): message : Siehe vorherige Definition von "STATUS_SXS_EARLY_DEACTIVATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(14361,1): warning C4005: "STATUS_SXS_INVALID_DEACTIVATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2574): message : Siehe vorherige Definition von "STATUS_SXS_INVALID_DEACTIVATION"
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\readbase.hpp(128,33): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\readbase.hpp(128,33): message : Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\readbase.hpp(144,16): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\readbase.hpp(144,16): message : Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\baseadress.cpp(210,4): warning C4476: "printf": Unbekanntes Typfeldzeichen "/" im Formatbezeichner.
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\baseadress.cpp(210,4): warning C4476: "printf": Unbekanntes Typfeldzeichen "P" im Formatbezeichner.
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\baseadress.cpp(210,4): warning C4476: "printf": Unbekanntes Typfeldzeichen "(" im Formatbezeichner.
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\baseadress.cpp(210,4): warning C4476: "printf": Unbekanntes Typfeldzeichen ")" im Formatbezeichner.
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\readbase.hpp(450,1): warning C4267: "Argument": Konvertierung von "size_t" nach "ULONG", Datenverlust möglich
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\baseadress.cpp(22): message : Siehe Verweis auf die gerade kompilierte Instanziierung "std::unique_ptr<SYSTEM_HANDLE_INFORMATION,std::default_delete<SYSTEM_HANDLE_INFORMATION>> QueryInfo<SYSTEM_HANDLE_INFORMATION>(SYSTEM_INFORMATION_CLASS)" der Funktions-Vorlage.
+  file_utils.cpp
+  mhyprot.cpp
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\mhyprot.cpp(295,49): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "DWORD", Datenverlust möglich
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\mhyprot.cpp(295,49): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "const DWORD", Datenverlust möglich
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\mhyprot.cpp(304,22): warning C4267: "=": Konvertierung von "size_t" nach "ULONG", Datenverlust möglich
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\mhyprot.cpp(332,21): warning C4267: "=": Konvertierung von "size_t" nach "ULONG", Datenverlust möglich
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\mhyprot.cpp(355,21): warning C4267: "=": Konvertierung von "size_t" nach "ULONG", Datenverlust möglich
+  service_utils.cpp
+  utils.cpp
+  win_utils.cpp
+  NoClip.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(21,1): warning C4005: "RT_MANIFEST": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(282): message : Siehe vorherige Definition von "RT_MANIFEST"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(22,1): warning C4005: "CREATEPROCESS_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(283): message : Siehe vorherige Definition von "CREATEPROCESS_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(23,1): warning C4005: "ISOLATIONAWARE_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(284): message : Siehe vorherige Definition von "ISOLATIONAWARE_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(24,1): warning C4005: "ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(285): message : Siehe vorherige Definition von "ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(25,1): warning C4005: "ISOLATIONPOLICY_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(286): message : Siehe vorherige Definition von "ISOLATIONPOLICY_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(26,1): warning C4005: "ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(287): message : Siehe vorherige Definition von "ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(27,1): warning C4005: "MINIMUM_RESERVED_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(288): message : Siehe vorherige Definition von "MINIMUM_RESERVED_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(28,1): warning C4005: "MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(289): message : Siehe vorherige Definition von "MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID"
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\baseadress.h(22,34): warning C4244: "Argument": Konvertierung von "uint64_t" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\NoClip.cpp(148): message : Siehe Verweis auf die gerade kompilierte Instanziierung "bool write<float>(uint64_t,const T &)" der Funktions-Vorlage.
+          with
+          [
+              T=float
+          ]
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\baseadress.h(14,32): warning C4244: "Argument": Konvertierung von "uint64_t" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\baseadress.h(39): message : Siehe Verweis auf die gerade kompilierte Instanziierung "bool read<T>(uint64_t,T &)" der Funktions-Vorlage.
+          with
+          [
+              T=uint64_t
+          ]
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\NoClip.cpp(57): message : Siehe Verweis auf die gerade kompilierte Instanziierung "T read<uint64_t>(uint64_t)" der Funktions-Vorlage.
+          with
+          [
+              T=uint64_t
+          ]
+  Kompilieren...
+  Offsets.cpp
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Offsets.cpp(21,34): warning C4244: "Argument": Konvertierung von "const uint64_t" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\baseadress.h(14,32): warning C4244: "Argument": Konvertierung von "uint64_t" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Mhyprot\baseadress.h(39): message : Siehe Verweis auf die gerade kompilierte Instanziierung "bool read<T>(uint64_t,T &)" der Funktions-Vorlage.
+          with
+          [
+              T=uint64_t
+          ]
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Offsets.cpp(23): message : Siehe Verweis auf die gerade kompilierte Instanziierung "T read<uint64_t>(uint64_t)" der Funktions-Vorlage.
+          with
+          [
+              T=uint64_t
+          ]
+  Overlay.cpp
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\overlay.h(1,1): warning C4005: "_CRT_SECURE_NO_WARNINGS": Makro-Neudefinition
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp : message : Siehe vorherige Definition von "_CRT_SECURE_NO_WARNINGS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(59,1): warning C4005: "D2DERR_WRONG_STATE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56930): message : Siehe vorherige Definition von "D2DERR_WRONG_STATE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(64,1): warning C4005: "D2DERR_NOT_INITIALIZED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56939): message : Siehe vorherige Definition von "D2DERR_NOT_INITIALIZED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(69,1): warning C4005: "D2DERR_UNSUPPORTED_OPERATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56948): message : Siehe vorherige Definition von "D2DERR_UNSUPPORTED_OPERATION"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(74,1): warning C4005: "D2DERR_SCANNER_FAILED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56957): message : Siehe vorherige Definition von "D2DERR_SCANNER_FAILED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(79,1): warning C4005: "D2DERR_SCREEN_ACCESS_DENIED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56966): message : Siehe vorherige Definition von "D2DERR_SCREEN_ACCESS_DENIED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(84,1): warning C4005: "D2DERR_DISPLAY_STATE_INVALID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56975): message : Siehe vorherige Definition von "D2DERR_DISPLAY_STATE_INVALID"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(89,1): warning C4005: "D2DERR_ZERO_VECTOR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56984): message : Siehe vorherige Definition von "D2DERR_ZERO_VECTOR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(97,1): warning C4005: "D2DERR_INTERNAL_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56993): message : Siehe vorherige Definition von "D2DERR_INTERNAL_ERROR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(103,1): warning C4005: "D2DERR_DISPLAY_FORMAT_NOT_SUPPORTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57002): message : Siehe vorherige Definition von "D2DERR_DISPLAY_FORMAT_NOT_SUPPORTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(108,1): warning C4005: "D2DERR_INVALID_CALL": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57011): message : Siehe vorherige Definition von "D2DERR_INVALID_CALL"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(113,1): warning C4005: "D2DERR_NO_HARDWARE_DEVICE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57020): message : Siehe vorherige Definition von "D2DERR_NO_HARDWARE_DEVICE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(119,1): warning C4005: "D2DERR_RECREATE_TARGET": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57029): message : Siehe vorherige Definition von "D2DERR_RECREATE_TARGET"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(124,1): warning C4005: "D2DERR_TOO_MANY_SHADER_ELEMENTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57038): message : Siehe vorherige Definition von "D2DERR_TOO_MANY_SHADER_ELEMENTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(129,1): warning C4005: "D2DERR_SHADER_COMPILE_FAILED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57047): message : Siehe vorherige Definition von "D2DERR_SHADER_COMPILE_FAILED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(134,1): warning C4005: "D2DERR_MAX_TEXTURE_SIZE_EXCEEDED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57056): message : Siehe vorherige Definition von "D2DERR_MAX_TEXTURE_SIZE_EXCEEDED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(139,1): warning C4005: "D2DERR_UNSUPPORTED_VERSION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57065): message : Siehe vorherige Definition von "D2DERR_UNSUPPORTED_VERSION"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(144,1): warning C4005: "D2DERR_BAD_NUMBER": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57074): message : Siehe vorherige Definition von "D2DERR_BAD_NUMBER"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(149,1): warning C4005: "D2DERR_WRONG_FACTORY": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57083): message : Siehe vorherige Definition von "D2DERR_WRONG_FACTORY"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(154,1): warning C4005: "D2DERR_LAYER_ALREADY_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57092): message : Siehe vorherige Definition von "D2DERR_LAYER_ALREADY_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(159,1): warning C4005: "D2DERR_POP_CALL_DID_NOT_MATCH_PUSH": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57101): message : Siehe vorherige Definition von "D2DERR_POP_CALL_DID_NOT_MATCH_PUSH"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(164,1): warning C4005: "D2DERR_WRONG_RESOURCE_DOMAIN": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57110): message : Siehe vorherige Definition von "D2DERR_WRONG_RESOURCE_DOMAIN"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(169,1): warning C4005: "D2DERR_PUSH_POP_UNBALANCED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57119): message : Siehe vorherige Definition von "D2DERR_PUSH_POP_UNBALANCED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(174,1): warning C4005: "D2DERR_RENDER_TARGET_HAS_LAYER_OR_CLIPRECT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57128): message : Siehe vorherige Definition von "D2DERR_RENDER_TARGET_HAS_LAYER_OR_CLIPRECT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(179,1): warning C4005: "D2DERR_INCOMPATIBLE_BRUSH_TYPES": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57137): message : Siehe vorherige Definition von "D2DERR_INCOMPATIBLE_BRUSH_TYPES"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(184,1): warning C4005: "D2DERR_WIN32_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57146): message : Siehe vorherige Definition von "D2DERR_WIN32_ERROR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(189,1): warning C4005: "D2DERR_TARGET_NOT_GDI_COMPATIBLE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57155): message : Siehe vorherige Definition von "D2DERR_TARGET_NOT_GDI_COMPATIBLE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(194,1): warning C4005: "D2DERR_TEXT_EFFECT_IS_WRONG_TYPE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57164): message : Siehe vorherige Definition von "D2DERR_TEXT_EFFECT_IS_WRONG_TYPE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(201,1): warning C4005: "D2DERR_TEXT_RENDERER_NOT_RELEASED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57173): message : Siehe vorherige Definition von "D2DERR_TEXT_RENDERER_NOT_RELEASED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D2DErr.h(206,1): warning C4005: "D2DERR_EXCEEDS_MAX_BITMAP_SIZE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57182): message : Siehe vorherige Definition von "D2DERR_EXCEEDS_MAX_BITMAP_SIZE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56388): message : Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56397): message : Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56406): message : Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56415): message : Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56424): message : Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56433): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56442): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56457): message : Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56466): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56475): message : Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56484): message : Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56493): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56502): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56512): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56521): message : Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56531): message : Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56540): message : Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56550): message : Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56559): message : Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56568): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56578): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56587): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56841): message : Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56850): message : Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4962,1): warning C4005: "DWRITE_E_FILEFORMAT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57349): message : Siehe vorherige Definition von "DWRITE_E_FILEFORMAT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4967,1): warning C4005: "DWRITE_E_UNEXPECTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57358): message : Siehe vorherige Definition von "DWRITE_E_UNEXPECTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4972,1): warning C4005: "DWRITE_E_NOFONT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57367): message : Siehe vorherige Definition von "DWRITE_E_NOFONT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4978,1): warning C4005: "DWRITE_E_FILENOTFOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57376): message : Siehe vorherige Definition von "DWRITE_E_FILENOTFOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4983,1): warning C4005: "DWRITE_E_FILEACCESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57385): message : Siehe vorherige Definition von "DWRITE_E_FILEACCESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4988,1): warning C4005: "DWRITE_E_FONTCOLLECTIONOBSOLETE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57394): message : Siehe vorherige Definition von "DWRITE_E_FONTCOLLECTIONOBSOLETE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dwrite.h(4993,1): warning C4005: "DWRITE_E_ALREADYREGISTERED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(57403): message : Siehe vorherige Definition von "DWRITE_E_ALREADYREGISTERED"
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(194,19): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(197,47): warning C4244: "Argument": Konvertierung von "const int" in "FLOAT", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(197,44): warning C4244: "Argument": Konvertierung von "const int" in "FLOAT", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(204,13): warning C4244: "=": Konvertierung von "const int" in "FLOAT", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(205,13): warning C4244: "=": Konvertierung von "const int" in "FLOAT", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(208,13): warning C4244: "=": Konvertierung von "const int" in "FLOAT", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(209,13): warning C4244: "=": Konvertierung von "const int" in "FLOAT", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(233,37): warning C4244: "Argument": Konvertierung von "const double" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(233,32): warning C4244: "Argument": Konvertierung von "const double" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(233,28): warning C4244: "Argument": Konvertierung von "const double" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(233,24): warning C4244: "Argument": Konvertierung von "const double" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(241,16): warning C4244: "=": Konvertierung von "const int" in "FLOAT", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(242,13): warning C4244: "=": Konvertierung von "const int" in "FLOAT", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(243,15): warning C4244: "=": Konvertierung von "const int" in "FLOAT", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(244,14): warning C4244: "=": Konvertierung von "const int" in "FLOAT", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(274,12): warning C4244: "=": Konvertierung von "const int" in "FLOAT", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(275,12): warning C4244: "=": Konvertierung von "const int" in "FLOAT", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(302,19): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(308,47): warning C4244: "Argument": Konvertierung von "const int" in "FLOAT", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(308,44): warning C4244: "Argument": Konvertierung von "const int" in "FLOAT", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(327,19): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(330,47): warning C4244: "Argument": Konvertierung von "const int" in "FLOAT", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(330,44): warning C4244: "Argument": Konvertierung von "const int" in "FLOAT", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(348,19): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(351,47): warning C4244: "Argument": Konvertierung von "const int" in "FLOAT", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\Overlay.cpp(351,44): warning C4244: "Argument": Konvertierung von "const int" in "FLOAT", möglicher Datenverlust
+  quartic.cpp
+  settings.cpp
+  Image.cpp
+  stb_image.c
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\utils\stb_image.c(761,1): warning C4244: "Initialisierung": Konvertierung von "__int64" in "int", möglicher Datenverlust
+E:\Programmieren\Tutorial MHYProt Source\MhyprotSource\utils\stb_image.c(774,1): warning C4244: "Initialisierung": Konvertierung von "__int64" in "int", möglicher Datenverlust
+  Code wird generiert.
+  Codegenerierung ist abgeschlossen.
+  MhyprotSource.vcxproj -> E:\Programmieren\Tutorial MHYProt Source\x64\Release\Mhyprot Base Source.exe

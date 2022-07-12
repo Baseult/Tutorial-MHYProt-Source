@@ -1,0 +1,283 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(282,1): warning C4005: "RT_MANIFEST": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(21): message : Siehe vorherige Definition von "RT_MANIFEST"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(283,1): warning C4005: "CREATEPROCESS_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(22): message : Siehe vorherige Definition von "CREATEPROCESS_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(284,1): warning C4005: "ISOLATIONAWARE_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(23): message : Siehe vorherige Definition von "ISOLATIONAWARE_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(285,1): warning C4005: "ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(24): message : Siehe vorherige Definition von "ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(286,1): warning C4005: "ISOLATIONPOLICY_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(25): message : Siehe vorherige Definition von "ISOLATIONPOLICY_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(287,1): warning C4005: "ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(26): message : Siehe vorherige Definition von "ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(288,1): warning C4005: "MINIMUM_RESERVED_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(27): message : Siehe vorherige Definition von "MINIMUM_RESERVED_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(289,1): warning C4005: "MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(28): message : Siehe vorherige Definition von "MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(2179,1): warning C4005: "WM_KEYLAST": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(554): message : Siehe vorherige Definition von "WM_KEYLAST"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(2275,1): warning C4005: "WM_MOUSELAST": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(653): message : Siehe vorherige Definition von "WM_MOUSELAST"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(3127,1): warning C4005: "CF_MAX": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(1183): message : Siehe vorherige Definition von "CF_MAX"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\main.cpp(134,39): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\main.cpp(134,23): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\main.cpp(143,39): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\main.cpp(143,23): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\ImGui\imgui_draw.cpp(3787,21): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\ImGui\imgui_widgets.cpp(3049,73): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\ImGui\imgui_widgets.cpp(3050,72): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  Logic.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(204,1): warning C4005: "LOWORD": Makro-Neudefinition
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\def.h(107): message : Siehe vorherige Definition von "LOWORD"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(205,1): warning C4005: "HIWORD": Makro-Neudefinition
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\def.h(110): message : Siehe vorherige Definition von "HIWORD"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(206,1): warning C4005: "LOBYTE": Makro-Neudefinition
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\def.h(106): message : Siehe vorherige Definition von "LOBYTE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(207,1): warning C4005: "HIBYTE": Makro-Neudefinition
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\def.h(109): message : Siehe vorherige Definition von "HIBYTE"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Logic.cpp(12,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "d3dx9.h": No such file or directory
+  baseadress.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.hpp(33,42): error C2039: "string_view" ist kein Member von "std".
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\string(24): message : Siehe Deklaration von "std"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.hpp(33,54): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.hpp(33,54): error C2146: Syntaxfehler: Fehlendes ")" vor Bezeichner "file_path"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.hpp(33,54): error C3646: "file_path": Unbekannter Überschreibungsspezifizierer
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.hpp(33,65): error C2062: "void"-Typ unerwartet
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.hpp(33,90): error C2059: Syntaxfehler: ")"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\win_utils.hpp(42,38): error C2039: "string_view" ist kein Member von "std".
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\string(24): message : Siehe Deklaration von "std"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\win_utils.hpp(42,50): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\win_utils.hpp(42,50): error C2146: Syntaxfehler: Fehlendes ")" vor Bezeichner "process_name"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\win_utils.hpp(42,50): error C3646: "process_name": Unbekannter Überschreibungsspezifizierer
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\win_utils.hpp(42,62): error C2059: Syntaxfehler: ")"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\win_utils.hpp(45,47): error C2039: "string_view" ist kein Member von "std".
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\string(24): message : Siehe Deklaration von "std"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\win_utils.hpp(45,59): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\win_utils.hpp(45,59): error C2146: Syntaxfehler: Fehlendes ")" vor Bezeichner "target_module_name"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\win_utils.hpp(45,59): error C3646: "target_module_name": Unbekannter Überschreibungsspezifizierer
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\win_utils.hpp(45,79): error C2062: "bool"-Typ unerwartet
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\win_utils.hpp(45,104): error C2059: Syntaxfehler: ")"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\service_utils.hpp(46,38): error C2039: "string_view" ist kein Member von "std".
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\string(24): message : Siehe Deklaration von "std"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\service_utils.hpp(46,50): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\service_utils.hpp(46,50): error C2146: Syntaxfehler: Fehlendes ")" vor Bezeichner "driver_path"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\service_utils.hpp(46,50): error C3646: "driver_path": Unbekannter Überschreibungsspezifizierer
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\service_utils.hpp(46,61): error C2059: Syntaxfehler: ")"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\mhyprot.hpp(86,17): error C7525: Inlinevariablen erfordern mindestens "/std:c++17".
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\mhyprot.hpp(87,19): error C7525: Inlinevariablen erfordern mindestens "/std:c++17".
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\mhyprot.hpp(88,20): error C7525: Inlinevariablen erfordern mindestens "/std:c++17".
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\readbase.hpp(10,1): warning C4005: "NT_SUCCESS": Makro-Neudefinition
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\nt.hpp(34): message : Siehe vorherige Definition von "NT_SUCCESS"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(66,1): warning C4005: "STATUS_WAIT_0": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2510): message : Siehe vorherige Definition von "STATUS_WAIT_0"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(222,1): warning C4005: "STATUS_ABANDONED_WAIT_0": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2511): message : Siehe vorherige Definition von "STATUS_ABANDONED_WAIT_0"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(245,1): warning C4005: "STATUS_USER_APC": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2512): message : Siehe vorherige Definition von "STATUS_USER_APC"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(281,1): warning C4005: "STATUS_TIMEOUT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2513): message : Siehe vorherige Definition von "STATUS_TIMEOUT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(290,1): warning C4005: "STATUS_PENDING": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2514): message : Siehe vorherige Definition von "STATUS_PENDING"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(737,1): warning C4005: "DBG_EXCEPTION_HANDLED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2515): message : Siehe vorherige Definition von "DBG_EXCEPTION_HANDLED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(746,1): warning C4005: "DBG_CONTINUE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2516): message : Siehe vorherige Definition von "DBG_CONTINUE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(821,1): warning C4005: "STATUS_SEGMENT_NOTIFICATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2517): message : Siehe vorherige Definition von "STATUS_SEGMENT_NOTIFICATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(984,1): warning C4005: "STATUS_FATAL_APP_EXIT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2518): message : Siehe vorherige Definition von "STATUS_FATAL_APP_EXIT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1304,1): warning C4005: "DBG_REPLY_LATER": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2519): message : Siehe vorherige Definition von "DBG_REPLY_LATER"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1322,1): warning C4005: "DBG_TERMINATE_THREAD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2520): message : Siehe vorherige Definition von "DBG_TERMINATE_THREAD"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1331,1): warning C4005: "DBG_TERMINATE_PROCESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2521): message : Siehe vorherige Definition von "DBG_TERMINATE_PROCESS"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1340,1): warning C4005: "DBG_CONTROL_C": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2522): message : Siehe vorherige Definition von "DBG_CONTROL_C"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1349,1): warning C4005: "DBG_PRINTEXCEPTION_C": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2523): message : Siehe vorherige Definition von "DBG_PRINTEXCEPTION_C"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1358,1): warning C4005: "DBG_RIPEXCEPTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2524): message : Siehe vorherige Definition von "DBG_RIPEXCEPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1367,1): warning C4005: "DBG_CONTROL_BREAK": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2525): message : Siehe vorherige Definition von "DBG_CONTROL_BREAK"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1376,1): warning C4005: "DBG_COMMAND_EXCEPTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2526): message : Siehe vorherige Definition von "DBG_COMMAND_EXCEPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1385,1): warning C4005: "DBG_PRINTEXCEPTION_WIDE_C": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2527): message : Siehe vorherige Definition von "DBG_PRINTEXCEPTION_WIDE_C"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1417,1): warning C4005: "STATUS_GUARD_PAGE_VIOLATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2528): message : Siehe vorherige Definition von "STATUS_GUARD_PAGE_VIOLATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1428,1): warning C4005: "STATUS_DATATYPE_MISALIGNMENT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2529): message : Siehe vorherige Definition von "STATUS_DATATYPE_MISALIGNMENT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1439,1): warning C4005: "STATUS_BREAKPOINT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2530): message : Siehe vorherige Definition von "STATUS_BREAKPOINT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1450,1): warning C4005: "STATUS_SINGLE_STEP": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2531): message : Siehe vorherige Definition von "STATUS_SINGLE_STEP"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1753,1): warning C4005: "STATUS_LONGJUMP": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2532): message : Siehe vorherige Definition von "STATUS_LONGJUMP"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1780,1): warning C4005: "STATUS_UNWIND_CONSOLIDATE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2533): message : Siehe vorherige Definition von "STATUS_UNWIND_CONSOLIDATE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(1884,1): warning C4005: "DBG_EXCEPTION_NOT_HANDLED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2534): message : Siehe vorherige Definition von "DBG_EXCEPTION_NOT_HANDLED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2030,1): warning C4005: "STATUS_ACCESS_VIOLATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2535): message : Siehe vorherige Definition von "STATUS_ACCESS_VIOLATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2039,1): warning C4005: "STATUS_IN_PAGE_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2536): message : Siehe vorherige Definition von "STATUS_IN_PAGE_ERROR"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2057,1): warning C4005: "STATUS_INVALID_HANDLE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2537): message : Siehe vorherige Definition von "STATUS_INVALID_HANDLE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2102,1): warning C4005: "STATUS_INVALID_PARAMETER": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2538): message : Siehe vorherige Definition von "STATUS_INVALID_PARAMETER"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2202,1): warning C4005: "STATUS_NO_MEMORY": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2539): message : Siehe vorherige Definition von "STATUS_NO_MEMORY"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2259,1): warning C4005: "STATUS_ILLEGAL_INSTRUCTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2540): message : Siehe vorherige Definition von "STATUS_ILLEGAL_INSTRUCTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2340,1): warning C4005: "STATUS_NONCONTINUABLE_EXCEPTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2541): message : Siehe vorherige Definition von "STATUS_NONCONTINUABLE_EXCEPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(2349,1): warning C4005: "STATUS_INVALID_DISPOSITION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2542): message : Siehe vorherige Definition von "STATUS_INVALID_DISPOSITION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3282,1): warning C4005: "STATUS_ARRAY_BOUNDS_EXCEEDED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2543): message : Siehe vorherige Definition von "STATUS_ARRAY_BOUNDS_EXCEEDED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3292,1): warning C4005: "STATUS_FLOAT_DENORMAL_OPERAND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2544): message : Siehe vorherige Definition von "STATUS_FLOAT_DENORMAL_OPERAND"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3302,1): warning C4005: "STATUS_FLOAT_DIVIDE_BY_ZERO": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2545): message : Siehe vorherige Definition von "STATUS_FLOAT_DIVIDE_BY_ZERO"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3312,1): warning C4005: "STATUS_FLOAT_INEXACT_RESULT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2546): message : Siehe vorherige Definition von "STATUS_FLOAT_INEXACT_RESULT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3322,1): warning C4005: "STATUS_FLOAT_INVALID_OPERATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2547): message : Siehe vorherige Definition von "STATUS_FLOAT_INVALID_OPERATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3332,1): warning C4005: "STATUS_FLOAT_OVERFLOW": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2548): message : Siehe vorherige Definition von "STATUS_FLOAT_OVERFLOW"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3342,1): warning C4005: "STATUS_FLOAT_STACK_CHECK": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2549): message : Siehe vorherige Definition von "STATUS_FLOAT_STACK_CHECK"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3352,1): warning C4005: "STATUS_FLOAT_UNDERFLOW": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2550): message : Siehe vorherige Definition von "STATUS_FLOAT_UNDERFLOW"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3362,1): warning C4005: "STATUS_INTEGER_DIVIDE_BY_ZERO": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2551): message : Siehe vorherige Definition von "STATUS_INTEGER_DIVIDE_BY_ZERO"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3372,1): warning C4005: "STATUS_INTEGER_OVERFLOW": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2552): message : Siehe vorherige Definition von "STATUS_INTEGER_OVERFLOW"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(3382,1): warning C4005: "STATUS_PRIVILEGED_INSTRUCTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2553): message : Siehe vorherige Definition von "STATUS_PRIVILEGED_INSTRUCTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(4328,1): warning C4005: "STATUS_STACK_OVERFLOW": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2554): message : Siehe vorherige Definition von "STATUS_STACK_OVERFLOW"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(4845,1): warning C4005: "STATUS_DLL_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2555): message : Siehe vorherige Definition von "STATUS_DLL_NOT_FOUND"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(4874,1): warning C4005: "STATUS_ORDINAL_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2556): message : Siehe vorherige Definition von "STATUS_ORDINAL_NOT_FOUND"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(4884,1): warning C4005: "STATUS_ENTRYPOINT_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2557): message : Siehe vorherige Definition von "STATUS_ENTRYPOINT_NOT_FOUND"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(4894,1): warning C4005: "STATUS_CONTROL_C_EXIT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2558): message : Siehe vorherige Definition von "STATUS_CONTROL_C_EXIT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(4972,1): warning C4005: "STATUS_DLL_INIT_FAILED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2559): message : Siehe vorherige Definition von "STATUS_DLL_INIT_FAILED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(5969,1): warning C4005: "STATUS_CONTROL_STACK_VIOLATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2560): message : Siehe vorherige Definition von "STATUS_CONTROL_STACK_VIOLATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(7527,1): warning C4005: "STATUS_FLOAT_MULTIPLE_FAULTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2561): message : Siehe vorherige Definition von "STATUS_FLOAT_MULTIPLE_FAULTS"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(7537,1): warning C4005: "STATUS_FLOAT_MULTIPLE_TRAPS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2562): message : Siehe vorherige Definition von "STATUS_FLOAT_MULTIPLE_TRAPS"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(7669,1): warning C4005: "STATUS_REG_NAT_CONSUMPTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2563): message : Siehe vorherige Definition von "STATUS_REG_NAT_CONSUMPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(8652,1): warning C4005: "STATUS_HEAP_CORRUPTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2564): message : Siehe vorherige Definition von "STATUS_HEAP_CORRUPTION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(8880,1): warning C4005: "STATUS_STACK_BUFFER_OVERRUN": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2565): message : Siehe vorherige Definition von "STATUS_STACK_BUFFER_OVERRUN"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(9007,1): warning C4005: "STATUS_INVALID_CRUNTIME_PARAMETER": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2566): message : Siehe vorherige Definition von "STATUS_INVALID_CRUNTIME_PARAMETER"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(9070,1): warning C4005: "STATUS_ASSERTION_FAILURE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2567): message : Siehe vorherige Definition von "STATUS_ASSERTION_FAILURE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(9988,1): warning C4005: "STATUS_ENCLAVE_VIOLATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2568): message : Siehe vorherige Definition von "STATUS_ENCLAVE_VIOLATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(10415,1): warning C4005: "STATUS_INTERRUPTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2569): message : Siehe vorherige Definition von "STATUS_INTERRUPTED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(10424,1): warning C4005: "STATUS_THREAD_NOT_RUNNING": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2570): message : Siehe vorherige Definition von "STATUS_THREAD_NOT_RUNNING"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(10718,1): warning C4005: "STATUS_ALREADY_REGISTERED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2571): message : Siehe vorherige Definition von "STATUS_ALREADY_REGISTERED"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(14352,1): warning C4005: "STATUS_SXS_EARLY_DEACTIVATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2573): message : Siehe vorherige Definition von "STATUS_SXS_EARLY_DEACTIVATION"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\ntstatus.h(14361,1): warning C4005: "STATUS_SXS_INVALID_DEACTIVATION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(2574): message : Siehe vorherige Definition von "STATUS_SXS_INVALID_DEACTIVATION"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\readbase.hpp(106,33): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\readbase.hpp(106,33): message : Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\readbase.hpp(122,16): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\readbase.hpp(122,16): message : Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\baseadress.cpp(204,10): warning C4476: "printf": Unbekanntes Typfeldzeichen "/" im Formatbezeichner.
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\baseadress.cpp(204,10): warning C4476: "printf": Unbekanntes Typfeldzeichen "P" im Formatbezeichner.
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\baseadress.cpp(204,10): warning C4476: "printf": Unbekanntes Typfeldzeichen "(" im Formatbezeichner.
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\baseadress.cpp(204,10): warning C4476: "printf": Unbekanntes Typfeldzeichen ")" im Formatbezeichner.
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\baseadress.cpp(239,6): error C2664: "int strcmp(const char *,const char *)" : Konvertierung von Argument 1 von "WCHAR [260]" in "const char *" nicht möglich
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\baseadress.cpp(239,26): message : Die Typen, auf die verwiesen wird, sind unabhängig; die Konvertierung erfordert eine reinterpret_cast-Umwandlung, eine C-Stil-Umwandlung oder eine in Klammern gesetzte Umwandlung im Funktionsstil.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(100,13): message : Siehe Deklaration von "strcmp"
+  file_utils.cpp
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.hpp(33,42): error C2039: "string_view" ist kein Member von "std".
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\fstream(26): message : Siehe Deklaration von "std"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.hpp(33,54): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.hpp(33,54): error C2146: Syntaxfehler: Fehlendes ")" vor Bezeichner "file_path"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.hpp(33,54): error C3646: "file_path": Unbekannter Überschreibungsspezifizierer
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.hpp(33,65): error C2062: "void"-Typ unerwartet
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.hpp(33,90): error C2059: Syntaxfehler: ")"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.cpp(32,13): error C2039: "string_view" ist kein Member von "std".
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\fstream(26): message : Siehe Deklaration von "std"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.cpp(32,25): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.cpp(32,25): error C2146: Syntaxfehler: Fehlendes ")" vor Bezeichner "file_path"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.cpp(32,25): error C3646: "file_path": Unbekannter Überschreibungsspezifizierer
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.cpp(32,36): error C2062: "void"-Typ unerwartet
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.cpp(33,1): error C2059: Syntaxfehler: ")"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.cpp(34,1): error C2143: Syntaxfehler: Es fehlt ";" vor "{"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.cpp(34,1): error C2447: "{": Funktionsheader fehlt - Parameterliste im alten Stil?
+  mhyprot.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.hpp(33,42): error C2039: "string_view" ist kein Member von "std".
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\string(24): message : Siehe Deklaration von "std"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.hpp(33,54): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.hpp(33,54): error C2146: Syntaxfehler: Fehlendes ")" vor Bezeichner "file_path"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.hpp(33,54): error C3646: "file_path": Unbekannter Überschreibungsspezifizierer
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.hpp(33,65): error C2062: "void"-Typ unerwartet
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.hpp(33,90): error C2059: Syntaxfehler: ")"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\win_utils.hpp(42,38): error C2039: "string_view" ist kein Member von "std".
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\string(24): message : Siehe Deklaration von "std"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\win_utils.hpp(42,50): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\win_utils.hpp(42,50): error C2146: Syntaxfehler: Fehlendes ")" vor Bezeichner "process_name"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\win_utils.hpp(42,50): error C3646: "process_name": Unbekannter Überschreibungsspezifizierer
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\win_utils.hpp(42,62): error C2059: Syntaxfehler: ")"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\win_utils.hpp(45,47): error C2039: "string_view" ist kein Member von "std".
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\string(24): message : Siehe Deklaration von "std"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\win_utils.hpp(45,59): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\win_utils.hpp(45,59): error C2146: Syntaxfehler: Fehlendes ")" vor Bezeichner "target_module_name"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\win_utils.hpp(45,59): error C3646: "target_module_name": Unbekannter Überschreibungsspezifizierer
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\win_utils.hpp(45,79): error C2062: "bool"-Typ unerwartet
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\win_utils.hpp(45,104): error C2059: Syntaxfehler: ")"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\service_utils.hpp(46,38): error C2039: "string_view" ist kein Member von "std".
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\string(24): message : Siehe Deklaration von "std"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\service_utils.hpp(46,50): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\service_utils.hpp(46,50): error C2146: Syntaxfehler: Fehlendes ")" vor Bezeichner "driver_path"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\service_utils.hpp(46,50): error C3646: "driver_path": Unbekannter Überschreibungsspezifizierer
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\service_utils.hpp(46,61): error C2059: Syntaxfehler: ")"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\mhyprot.hpp(86,17): error C7525: Inlinevariablen erfordern mindestens "/std:c++17".
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\mhyprot.hpp(87,19): error C7525: Inlinevariablen erfordern mindestens "/std:c++17".
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\mhyprot.hpp(88,20): error C7525: Inlinevariablen erfordern mindestens "/std:c++17".
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\mhyprot.cpp(37,66): error C2664: "DWORD GetTempPathW(DWORD,LPWSTR)" : Konvertierung von Argument 2 von "char [260]" in "LPWSTR" nicht möglich
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\mhyprot.cpp(37,57): message : Die Typen, auf die verwiesen wird, sind unabhängig; die Konvertierung erfordert eine reinterpret_cast-Umwandlung, eine C-Stil-Umwandlung oder eine in Klammern gesetzte Umwandlung im Funktionsstil.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\fileapi.h(1222,1): message : Siehe Deklaration von "GetTempPathW"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\mhyprot.cpp(37,17): error C2737: "length": Das Objekt "const" muss initialisiert werden.
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\mhyprot.cpp(50,10): error C3083: "filesystem": Das Symbol links neben "::" muss ein Typ sein.
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\mhyprot.cpp(50,22): error C2039: "exists" ist kein Member von "std".
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.31.31103\include\string(24): message : Siehe Deklaration von "std"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\mhyprot.cpp(50,4): error C3861: "exists": Bezeichner wurde nicht gefunden.
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\mhyprot.cpp(58,18): error C2660: "file_utils::create_file_from_buffer": Funktion akzeptiert keine 3 Argumente
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\file_utils.hpp(33,7): message : Siehe Deklaration von "file_utils::create_file_from_buffer"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\mhyprot.cpp(73,79): error C2664: "SC_HANDLE service_utils::create_service(const int)" : Konvertierung von Argument 1 von "const std::string" in "const int" nicht möglich
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\mhyprot.cpp(73,65): message : Kein benutzerdefinierter Konvertierungsoperator verfügbar, der diese Konvertierung durchführen kann, oder der Operator kann nicht aufgerufen werden
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\service_utils.hpp(46,12): message : Siehe Deklaration von "service_utils::create_service"
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\mhyprot.cpp(197,62): error C2660: "win_utils::obtain_sysmodule_address": Funktion akzeptiert keine 2 Argumente
+C:\Sources\BlueFirePaladinsHack-master\PaladinsHack\Mhyprot\win_utils.hpp(45,11): message : Siehe Deklaration von "win_utils::obtain_sysmodule_address"
+  service_utils.cpp
