@@ -3,4 +3,4 @@ External cheat base using Mhyprot to read and write Anticheat protected memory (
 
 Credits to Bluefire for the oiginal Sourc: https://github.com/LagradOst/BlueFirePaladinsHa
 
-I just updated and modified it, added new features and made it a usable base
+I (Baseult) just updated and modified it, added new features and made it a usable base
